@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Wizard23333)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Wizard23333&left_color=red&right_color=#66ccff&)
 
 <!--
 **Wizard23333/Wizard23333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
