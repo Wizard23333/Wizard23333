@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Wizard23333.Wizard23333&left_text=MyPageVisitors)
+
 <!--
 **Wizard23333/Wizard23333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
