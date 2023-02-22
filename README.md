@@ -1,4 +1,4 @@
-
+## [个人博客🔗](https://wizard23333.github.io/)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wizard23333&show_icons=true&theme=vue&hide=prs,issues" height= 150/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Wizard23333" height= 75/> 
