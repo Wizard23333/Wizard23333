@@ -5,7 +5,7 @@
 </div>
   
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wizard23333&theme=github-light&hide_title=true" height= 300 align="center"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wizard23333&theme=github-light&hide_title=true" height= 300 align="center"/>
 </div>
 
 
