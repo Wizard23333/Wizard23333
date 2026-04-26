@@ -1,31 +1,50 @@
-## [博客🔗](https://wizard23333.github.io/)
+# Hi there, I'm Wizard23333 👋
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wizard23333&show_icons=true&theme=vue&hide=prs,issues" height= 150/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wizard23333" height= 75/> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wizard23333" />
+  <a href="https://wizard23333.github.io/">
+    <img src="https://img.shields.io/badge/Blog-Link-blue?style=flat&logo=github&logoColor=white" />
+  </a>
 </div>
-  
+
+### 🚀 About Me
+- 🌐 [My Blog](https://wizard23333.github.io/)
+- 💻 Passionate about building interesting projects and learning new technologies.
+
+### 🛠 Tech Stack
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wizard23333&theme=github-light&hide_title=true" height= 300 align="center"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,docker,github,git,vscode,linux" />
 </div>
 
+### 📂 Featured Projects
+<div align="center">
+  <!-- 这里可以替换为你最想展示的仓库名 -->
+  <a href="https://github.com/Wizard23333/Wizard23333">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wizard23333&repo=Wizard23333&theme=vue&hide_border=true" />
+  </a>
+</div>
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wizard23333&show_icons=true&theme=vue&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard23333&layout=compact&theme=vue&hide_border=true" height="170" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wizard23333&theme=vue&hide_border=true" />
+</div>
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard23333&layout=compact)
--->
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wizard23333&theme=vue&hide_border=true&area=true" width="100%" />
+</div>
 
-<!--
-**Wizard23333/Wizard23333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📅 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>"Keep coding, keep learning."</i>
+</div>
