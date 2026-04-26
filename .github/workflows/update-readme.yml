@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 * * * *" # 每小时运行一次
+    - cron: "0 0 * * 1" # 每周一凌晨 0 点运行一次
   workflow_dispatch: # 允许手动运行
 
 jobs:
