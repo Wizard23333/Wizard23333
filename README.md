@@ -16,15 +16,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,docker,github,git,vscode,linux" />
 </div>
 
-### 📂 Featured Projects
-<div align="center">
-  <!-- 这里可以替换为你最想展示的仓库名 -->
-  <a href="https://github.com/Wizard23333/Wizard23333">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wizard23333&repo=Wizard23333&theme=vue&hide_border=true" />
-  </a>
-</div>
-
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wizard23333&show_icons=true&theme=vue&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard23333&layout=compact&theme=vue&hide_border=true" height="170" />
