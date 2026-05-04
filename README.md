@@ -33,6 +33,7 @@
 
 ### 📅 Recent Activity
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.1.0 - Initial L4D2 server management playbook](https://github.com/Wizard23333/L4D2-Server-Manager-Skill/releases/tag/v0.1.0) in [Wizard23333/L4D2-Server-Manager-Skill](https://github.com/Wizard23333/L4D2-Server-Manager-Skill)
 <!--END_SECTION:activity-->
 
 ---
