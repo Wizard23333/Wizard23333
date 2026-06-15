@@ -33,7 +33,7 @@
 
 ### 📅 Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.1](https://github.com/Wizard23333/L4D2-Server-Manager-Skill/releases/tag/v0.2.1) in [Wizard23333/L4D2-Server-Manager-Skill](https://github.com/Wizard23333/L4D2-Server-Manager-Skill)
+1. 🚀 Published release [v0.3.0 - React panel and download modes](https://github.com/Wizard23333/L4D2-Server-Manager-Skill/releases/tag/v0.3.0) in [Wizard23333/L4D2-Server-Manager-Skill](https://github.com/Wizard23333/L4D2-Server-Manager-Skill)
 <!--END_SECTION:activity-->
 
 ---
